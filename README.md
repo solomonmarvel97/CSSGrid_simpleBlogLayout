@@ -1,0 +1,2 @@
+# CSSGrid_simpleBlogLayout
+CSSGrid_simpleBlogLayout Frontend Engineering Cohort Class
